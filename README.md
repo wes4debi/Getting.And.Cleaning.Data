@@ -19,6 +19,7 @@ Copy the run_analysis.R script to your working directory.
 Download and Install the dplyr R package, version 0.4.1, http://cran.r-project.org/package=dplyr 
 Download and Install the stringr R package, version 0.6.2 , http://cran.r-project.org/package=stringr
 Download and Install the utils R package, version 2.0.0 , http://cran.r-project.org/package=R.utils
+
 Source run_analysis.R.
 If the UCI HAR Dataset directory and files, as originally structured in the zip are in your working directory,
 you can run run_analysis() to create the Tidy data set.
